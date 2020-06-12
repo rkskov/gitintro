@@ -27,7 +27,7 @@ $ ls .git
 Navigate to the directory where you want your new project folder to appear and type:
 
 ```
-$ git clone rkskov@github.com:gitintro
+$ git clone https://github.com/rkskov/gitintro.git
 ```
 
 ## Adding files to the repository
